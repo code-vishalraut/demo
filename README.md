@@ -1,2 +1,2 @@
 # demo
-this is deo for learn git and github.
+This is demo for learn git and github.
